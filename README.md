@@ -39,4 +39,4 @@ After compiling
 
 ## Lisence
 
-[MIT](./MITlicense.txt)
+[MIT](./LICENSE)
