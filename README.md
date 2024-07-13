@@ -15,7 +15,7 @@ This project is written in C++ and requires a C++ compiler to run. You can compi
 
 ## Compilation
 
-In the command propmt window type:
+In the command prompt window type:
 
 ```bash
 g++ ParkingLotManagement.cpp
