@@ -37,6 +37,6 @@ After compiling
 - Next follow the on screen instructions to proceed
 - The code includes functions for entry/exit of a vehicle, displaying of currently alloted vehicles and provides a search functionality.
 
-## Lisence
+## License
 
 [MIT](./LICENSE)
